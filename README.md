@@ -69,7 +69,7 @@ The *Realtime Currency Converter* is a cross-platform application designed to pr
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/realtime-currency-converter.git
+   git clone https://github.com/shishirahm3d/realtime-currency-converter.git
    ```
 2. Navigate to the project directory:
    ```bash
